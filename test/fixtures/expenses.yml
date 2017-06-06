@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  concept: MyString
+  amount: 1
+  expensedate: 2017-06-06
+  category: one
+  type: one
+
+two:
+  concept: MyString
+  amount: 1
+  expensedate: 2017-06-06
+  category: two
+  type: two
